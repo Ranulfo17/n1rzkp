@@ -40,3 +40,4 @@ Our analysis revealed that the protocol's security is based on a flawed mathemat
    ```bash
    git clone https://github.com/Ranulfo17/n1rzkp.git
    cd n1rzkp
+   cargo test
