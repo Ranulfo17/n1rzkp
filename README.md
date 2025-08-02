@@ -38,5 +38,5 @@ Our analysis revealed that the protocol's security is based on a flawed mathemat
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Ranulfo17/n1rzkp.git](https://github.com/Ranulfo17/n1rzkp.git)
+   git clone https://github.com/Ranulfo17/n1rzkp.git
    cd n1rzkp
